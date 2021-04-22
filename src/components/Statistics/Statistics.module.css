@@ -2,8 +2,9 @@
   padding-top: 20px;
   padding-bottom: 20px;
   margin: auto 10px;
-  /* margin-left: auto; */
-  color: rgb(63, 63, 82);
+  border-radius: 5px;
+  background-color: rgb(153, 153, 88);
+  color: rgb(230, 255, 6);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   outline: 1px solid rgb(247, 229, 229);
 }
